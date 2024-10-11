@@ -114,5 +114,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Initialize EmailJS
 (function() {
-    emailjs.init("VXB_UyVqt4pHwMfYx"); // Replace with your EmailJS public key
+    emailjs.init("VXB_UyVqt4pHwMfYx"); // public key
 })();
